@@ -16,6 +16,9 @@ namespace SocketClient
             socketClient.Connect(remoteEndpoint);
             Console.WriteLine("Connected to server!!");
             Console.ReadLine();
+            Console.WriteLine("Will close Connection....");
+            socketClient.Shutdown(SocketShutdown.Both);
+            socketClient.Close();
         }
     }
 }

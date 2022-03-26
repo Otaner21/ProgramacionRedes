@@ -19,7 +19,8 @@ namespace ConsoleApp2
                 Console.WriteLine("Acepete un nuevo perdido de conexion");
             }*/
           var socketClient = socketServer.Accept();
-            // Console.ReadLine();
+          Console.WriteLine("Acepte un nuevo pedido");
+          Console.ReadLine();
         }
     }
 }
