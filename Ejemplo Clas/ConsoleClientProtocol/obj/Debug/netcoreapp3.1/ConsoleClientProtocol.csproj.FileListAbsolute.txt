@@ -1,0 +1,47 @@
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.deps.json
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.runtimeconfig.json
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.runtimeconfig.dev.json
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.dll
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.pdb
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ProtocolLibrary.dll
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ProtocolLibrary.pdb
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.csprojAssemblyReference.cache
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.AssemblyInfoInputs.cache
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.AssemblyInfo.cs
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.csproj.CoreCompileInputs.cache
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.csproj.CopyComplete
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.dll
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.pdb
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.genruntimeconfig.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.deps.json
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.runtimeconfig.json
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.runtimeconfig.dev.json
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.dll
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ConsoleClientProtocol.pdb
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ProtocolLibrary.dll
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/bin/Debug/netcoreapp3.1/ProtocolLibrary.pdb
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.csprojAssemblyReference.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.AssemblyInfoInputs.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.AssemblyInfo.cs
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.csproj.CoreCompileInputs.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.csproj.CopyComplete
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.dll
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.pdb
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ConsoleClientProtocol/obj/Debug/netcoreapp3.1/ConsoleClientProtocol.genruntimeconfig.cache
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ConsoleClientProtocol.exe
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ConsoleClientProtocol.deps.json
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ConsoleClientProtocol.runtimeconfig.json
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ConsoleClientProtocol.runtimeconfig.dev.json
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ConsoleClientProtocol.dll
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ConsoleClientProtocol.pdb
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ProtocolLibrary.dll
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\bin\Debug\netcoreapp3.1\ProtocolLibrary.pdb
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.csproj.AssemblyReference.cache
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.GeneratedMSBuildEditorConfig.editorconfig
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.AssemblyInfoInputs.cache
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.AssemblyInfo.cs
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.csproj.CoreCompileInputs.cache
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.csproj.CopyComplete
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.dll
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.pdb
+H:\REPOPR\Ejemplo Clas\ConsoleClientProtocol\obj\Debug\netcoreapp3.1\ConsoleClientProtocol.genruntimeconfig.cache

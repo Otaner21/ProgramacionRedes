@@ -1,0 +1,28 @@
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/bin/Debug/netcoreapp3.1/ProtocolLibrary.deps.json
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/bin/Debug/netcoreapp3.1/ProtocolLibrary.dll
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/bin/Debug/netcoreapp3.1/ProtocolLibrary.pdb
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.csprojAssemblyReference.cache
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.AssemblyInfoInputs.cache
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.AssemblyInfo.cs
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.csproj.CoreCompileInputs.cache
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.dll
+/Users/lbarrague/Desktop/ORT/Programacion de Redes/Ejemplos de codigo/Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.pdb
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/bin/Debug/netcoreapp3.1/ProtocolLibrary.deps.json
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/bin/Debug/netcoreapp3.1/ProtocolLibrary.dll
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/bin/Debug/netcoreapp3.1/ProtocolLibrary.pdb
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.csprojAssemblyReference.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.AssemblyInfoInputs.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.AssemblyInfo.cs
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.csproj.CoreCompileInputs.cache
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.dll
+/Users/luis/Dropbox/ORT/ProgramacionDeRedes/2021/Ejemplos de Codigo Anteriores/Ejemplos Luis/Ejemplos de Sockets/ConsoleAppStringProtocol/ProtocolLibrary/obj/Debug/netcoreapp3.1/ProtocolLibrary.pdb
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\bin\Debug\netcoreapp3.1\ProtocolLibrary.deps.json
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\bin\Debug\netcoreapp3.1\ProtocolLibrary.dll
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\bin\Debug\netcoreapp3.1\ProtocolLibrary.pdb
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.csproj.AssemblyReference.cache
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.AssemblyInfoInputs.cache
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.AssemblyInfo.cs
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.csproj.CoreCompileInputs.cache
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.dll
+H:\REPOPR\Ejemplo Clas\ProtocolLibrary\obj\Debug\netcoreapp3.1\ProtocolLibrary.pdb

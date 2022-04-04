@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStringProtocol", "ConsoleAppStringProtocol\ConsoleAppStringProtocol.csproj", "{6B69755E-7537-47F9-B558-E570EC80876B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolLibrary", "ProtocolLibrary\ProtocolLibrary.csproj", "{58C3504A-6FB3-4254-943A-90F7091A79B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleServerProtocol", "ConsoleServerProtocol\ConsoleServerProtocol.csproj", "{9954F9E8-BBFA-41A1-876E-AC51AFFDCBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClientProtocol", "ConsoleClientProtocol\ConsoleClientProtocol.csproj", "{2E614C42-BA27-48E7-B211-943B126A4323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B69755E-7537-47F9-B558-E570EC80876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B69755E-7537-47F9-B558-E570EC80876B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B69755E-7537-47F9-B558-E570EC80876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B69755E-7537-47F9-B558-E570EC80876B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C3504A-6FB3-4254-943A-90F7091A79B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C3504A-6FB3-4254-943A-90F7091A79B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C3504A-6FB3-4254-943A-90F7091A79B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C3504A-6FB3-4254-943A-90F7091A79B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9954F9E8-BBFA-41A1-876E-AC51AFFDCBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9954F9E8-BBFA-41A1-876E-AC51AFFDCBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9954F9E8-BBFA-41A1-876E-AC51AFFDCBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9954F9E8-BBFA-41A1-876E-AC51AFFDCBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E614C42-BA27-48E7-B211-943B126A4323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E614C42-BA27-48E7-B211-943B126A4323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E614C42-BA27-48E7-B211-943B126A4323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E614C42-BA27-48E7-B211-943B126A4323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
